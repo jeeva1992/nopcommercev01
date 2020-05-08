@@ -1,0 +1,140 @@
+[INFO ] 06-05-2020 04:54:49.061 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 04:54:50.579 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 04:54:53.349 TC_LoginTest_001 - *** Validating Login ***
+[INFO ] 06-05-2020 04:54:53.404 TC_LoginTest_001 - *** Login is Successfull ***
+[INFO ] 06-05-2020 04:55:52.005 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 04:55:53.729 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 04:55:56.379 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 06-05-2020 04:55:56.389 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 06-05-2020 05:01:05.582 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:01:07.402 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:01:09.962 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 06-05-2020 05:01:09.978 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 06-05-2020 05:16:41.936 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:16:43.728 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:16:47.108 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 06-05-2020 05:16:47.124 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 06-05-2020 05:17:22.526 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:17:24.022 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:17:26.777 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 06-05-2020 05:17:26.790 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 06-05-2020 05:18:00.131 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:18:06.308 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:20:34.840 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:20:34.958 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:20:38.557 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:20:38.737 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:20:40.350 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:20:40.625 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:20:42.521 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 05:20:43.782 TC_LoginTest_001 - *** Validating Login ***
+[INFO ] 06-05-2020 05:20:43.797 TC_LoginTest_001 - *** Login is Successful ***
+[INFO ] 06-05-2020 05:20:43.897 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 05:20:44.099 TC_LoginTest_001 - *** Validating Login ***
+[INFO ] 06-05-2020 05:20:44.106 TC_LoginTest_001 - *** Login is Successful ***
+[INFO ] 06-05-2020 05:20:46.538 TC_LoginTest_001 - *** Validating Login ***
+[INFO ] 06-05-2020 05:20:46.591 TC_LoginTest_001 - *** Login is Successful ***
+[INFO ] 06-05-2020 06:07:45.162 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 06:07:47.027 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 06:07:50.233 TC_LoginTest_001 - *** Validating Login ***
+[INFO ] 06-05-2020 06:07:50.275 TC_LoginTest_001 - *** Login is Successful ***
+[INFO ] 06-05-2020 06:09:24.834 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 06:09:26.674 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 06:09:30.694 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 06-05-2020 06:09:30.703 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 06-05-2020 10:41:45.423 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 06-05-2020 10:41:47.181 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 06-05-2020 10:41:49.780 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 06-05-2020 10:41:49.837 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 06-05-2020 11:01:19.616 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 06-05-2020 11:01:28.854 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 06-05-2020 11:01:32.700 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 06-05-2020 11:01:32.713 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 06-05-2020 11:01:39.236 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 06-05-2020 11:01:39.237 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 06-05-2020 11:01:39.240 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 06-05-2020 11:01:45.415 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 06-05-2020 11:01:45.415 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 06-05-2020 11:01:45.420 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 06-05-2020 11:01:51.585 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 06-05-2020 11:01:51.586 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 04:11:06.684 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 07-05-2020 04:11:13.991 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 07-05-2020 04:11:18.621 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 07-05-2020 04:11:30.049 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 07-05-2020 04:11:30.051 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 07-05-2020 04:59:14.076 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 07-05-2020 04:59:15.515 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 07-05-2020 04:59:18.006 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 07-05-2020 04:59:18.016 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 07-05-2020 04:59:24.556 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 07-05-2020 04:59:32.168 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 07-05-2020 04:59:36.183 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 07-05-2020 04:59:47.860 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 07-05-2020 04:59:47.861 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 07-05-2020 04:59:53.863 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 07-05-2020 05:00:02.734 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 07-05-2020 05:00:02.735 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 07-05-2020 05:00:08.733 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 07-05-2020 05:00:17.218 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 07-05-2020 05:00:17.219 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 07-05-2020 05:53:06.006 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 07-05-2020 05:53:07.602 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 07-05-2020 05:53:10.703 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 07-05-2020 05:53:10.713 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 07-05-2020 05:53:17.308 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 07-05-2020 05:53:24.715 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 07-05-2020 05:53:28.822 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 07-05-2020 05:53:40.230 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 07-05-2020 05:53:40.230 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 07-05-2020 05:53:46.205 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 07-05-2020 05:53:55.113 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 07-05-2020 05:53:55.113 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 07-05-2020 05:54:01.182 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 07-05-2020 05:54:09.983 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 07-05-2020 05:54:09.983 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 07-05-2020 06:00:18.680 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 07-05-2020 06:00:18.688 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 07-05-2020 06:00:18.692 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 07-05-2020 06:00:18.695 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 07-05-2020 06:00:19.996 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:00:20.661 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 07-05-2020 06:00:25.742 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 07-05-2020 06:00:25.817 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 07-05-2020 06:00:28.478 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 07-05-2020 06:00:30.125 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 07-05-2020 06:00:31.104 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 07-05-2020 06:00:31.105 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 07-05-2020 06:00:31.318 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 07-05-2020 06:00:31.318 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 07-05-2020 06:00:32.757 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 07-05-2020 06:00:33.984 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:00:33.989 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:00:40.458 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 07-05-2020 06:00:40.458 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:00:40.463 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:00:44.147 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 07-05-2020 06:00:44.147 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 07-05-2020 06:00:46.633 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 07-05-2020 06:00:46.634 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:00:46.643 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:00:52.780 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 07-05-2020 06:00:52.781 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 07-05-2020 06:16:57.944 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 07-05-2020 06:16:57.944 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 07-05-2020 06:16:59.791 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 07-05-2020 06:17:03.426 TC_LoginTest_001 - *** Validating Login ***
+[ERROR] 07-05-2020 06:17:03.444 TC_LoginTest_001 - *** Login is Unsuccessful ***
+[INFO ] 07-05-2020 06:17:05.923 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 07-05-2020 06:17:10.264 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 07-05-2020 06:17:21.706 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 07-05-2020 06:17:21.706 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 07-05-2020 06:18:48.704 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 07-05-2020 06:18:48.704 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 07-05-2020 06:18:50.500 TC_LoginTest_001 - *** Providing Login Details ***
+[INFO ] 07-05-2020 06:18:53.282 TC_LoginTest_001 - *** Validating Login ***
+[INFO ] 07-05-2020 06:18:53.290 TC_LoginTest_001 - *** Login is Successful ***
+[INFO ] 07-05-2020 06:18:56.607 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 07-05-2020 06:19:00.401 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 07-05-2020 06:19:11.817 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 07-05-2020 06:19:11.818 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
